@@ -1,5 +1,6 @@
 # About me
-I'm a backend developer from Jakarta, you can find my blog at https://ranar1808.github.com/.
+I'm a backend developer from Berau, East Kalimantan 
+you can find my blog at https://ranar1808.github.com/
 
 Programming Language that i use in work
 - C# (.Net Core)
@@ -17,7 +18,7 @@ Tool that i while development
 Database 
 - Sql Server
 - PostgreSQL
-- MariaDB/MYsql
+- MariaDB/MySql
 
 Deploy
 - on premise (Windows & Linux)
